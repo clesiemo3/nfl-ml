@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Custom Additions
+.DS_Store
+.idea/
+config.py
